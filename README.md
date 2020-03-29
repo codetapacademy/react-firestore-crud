@@ -1,68 +1,17 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# React Firestore CRUD
 
-## Available Scripts
+Let's talk about React Firestore Crud. It's pretty similar to react firebase crud so let me take you, step by step, on a journey of discovery where the amazing JavaScript ES6, React and Redux will come together so we can Create, Read, Update and Delete data from Firestore.
 
-In the project directory, you can run:
+## Steps to start
 
-### `yarn start`
-
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
-
-### `yarn test`
-
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `yarn build`
-
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `yarn eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `yarn build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+1. Visit https://github.com/codetapacademy/react-firestore-crud
+1. Click the **Fork** button
+1. On your profile, click the **Clone** button and clone it to your local PC
+1. On your PC create a new branch and give it as name, the same username you have on GitHub, all in lowercase, example: `git checkout -b marianzburlea`, where `marianzburlea` is my GitHub username.
+1. Inside the `/src/component/idea` folder you want to create one folder of your own, and name it the same username you have on GitHub, all in lowercase.
+1. Inside this folder of yours you want to create your own idea. Feel free to get inspired from the other solutions.
+1. To make the router work, you want to import your custom component and add it to the render method inside `/src/react-firestore-crud.component.jsx`
+1. To add it to the top menu, you want to add your Link inside the file `/src/component/top-menu/top-menu.component.jsx`
+1. After you made at least one change and one commit, feel free to create a PR a.k.a. Pull Request
+1. Check for rewiews and do your best to get it accepted.
+1. Have lots of fun!
