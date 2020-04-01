@@ -1,0 +1,1 @@
+export { BiancaAndrei } from './biancalina.component'

@@ -5,7 +5,7 @@ const TopMenu = () => {
   return (
     <StyledNav>
       <StyledLink to="/">⌂ Back Home</StyledLink>
-      <StyledLink to="/marianzburlea">Marian Zburlea</StyledLink>
+      <StyledLink to="/biancalina">Bianca Andrei</StyledLink>
       {/* Add your custom link below this line */}
       {/* <StyledLink to="/your-github-user-name-all-in-lowercase">Firstname Lastname</StyledLink> */}
       {/* Add your custom link above this line */}

@@ -2,7 +2,7 @@ import React from 'react'
 import { Router } from '@reach/router'
 import { Footer } from './component/footer/footer.component'
 import { Home } from './component/home/home.component'
-import { MarianZburlea } from './component/idea/marianzburlea'
+import { BiancaAndrei } from './component/idea/biancalina'
 import { TopMenu } from './component/top-menu'
 import './react-firestore-crud.css'
 
@@ -12,7 +12,7 @@ const ReactFirestoreCrud = () => {
       <TopMenu />
       <Router>
         <Home path="/" />
-        <MarianZburlea path="/marianzburlea" />
+        <BiancaAndrei path="/biancalina"/>
       </Router>
       <Footer />
     </>
